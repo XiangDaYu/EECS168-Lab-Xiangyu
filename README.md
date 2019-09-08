@@ -1,5 +1,5 @@
 # EECS168-Lab-Xiangyu
-This repository is used to post some information about the labs and FAQ. If you have any questions, you could either ask in the "Issues" part above(I will answer when I see them and everybody else can answer if you want to. Besides this, you can search the questions here before asking to get your answer quickly.) or email it to me. 
+This repository is used to post some information about the labs and FAQ. If you have any questions, you could either ask in the "Issues" section above (I will answer when I see them and everybody else can answer if you want to. Besides this, you can search the questions here before asking to get your answer quickly.) or email it to me. 
 
 ## Some tips:
 1. Use your keyboard instead of your mouse. (Use commands 'cp, mv, cd, pwd...' instead of right-clicking on your mouse)
