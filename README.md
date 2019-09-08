@@ -16,4 +16,7 @@ Due for 8-9:50 Friday lab is next Thurday (11:59 p.m.);
 ```
 tar -cvzf Smith-123456-Lab-01.tar.gz Smith-123456-Lab-01
 ```
-2. Email this .tar.gz file to me.
+2. Email this .tar.gz file to me with a subject like:
+```
+[EECS168] Lab01
+```
