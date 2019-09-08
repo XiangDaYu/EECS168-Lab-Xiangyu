@@ -6,7 +6,7 @@ More information can be found here: https://wiki.ittc.ku.edu/ittc_wiki/index.php
 - Compile and execute a program.
 - Submit your work.
 
-## assignment
+## Assignment
 ### exercise1
 1. create a file named main.cpp and the sample output of it is:
 ```
