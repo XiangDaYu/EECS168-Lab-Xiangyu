@@ -63,3 +63,5 @@ tar -tvzf Smith-123456-Lab-01.tar.gz
 + A: You have no authorization to edit the current directory. Use the command "cd ~" to go to the **home directory**.
 3. What is Makefile?
 - A: A series of commands and rules to avoid retyping the same commands again and agian after making some changes. You only need to type 'make' command to generate a new executable program after some changes to your source files.
+4. Why do we use command lines instead of GUI?
+- A: https://wiki.ittc.ku.edu/ittc/images/9/99/Cmdline_instructions.pdf
