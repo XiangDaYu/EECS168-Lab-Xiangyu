@@ -20,3 +20,37 @@ tar -cvzf Smith-123456-Lab-01.tar.gz Smith-123456-Lab-01
 ```
 [EECS168] Lab01
 ```
+## How to create a Makefile
+```
+touch Makefile
+gedit Makefile
+```
+A Makefile should be like this:
+```
+target: prerequisites
+[tab]command
+```
+An example is:
+```
+HelloWorld: main.o
+	g++ -std=c++11 -g -Wall main.o -o HelloWorld
+
+main.o: main.cpp
+	g++ -std=c++11 -g -Wall -c main.cpp
+
+clean: 
+	rm *.o HelloWorld
+```
+And then run your Makefile to make sure it is executable.
+```
+make
+```
+After this, an executable will be generated. (The last target "clean" and its command will not be run when typing "make". To execute the clean command, you need to use the command "make clean".) Run it:
+```
+./HelloWorld
+```
+Then, to submit your assignment and also make your files neat, you should clean all .o files and executable files. Use the command:
+```
+make clean
+```
+
